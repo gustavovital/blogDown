@@ -5,16 +5,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Graduação em Ciências Econômicas
+    institution: Universidade Federal Fluminense
+    year: 2019
+  # - course: MEng in Artificial Intelligence
+  #  institution: Massachusetts Institute of Technology
+  #  year: 2009
+  # - course: BSc in Artificial Intelligence
+  #  institution: Massachusetts Institute of Technology
+  #  year: 2008
+email: "gustavovital@id.uff.br"
 interests: 
 - R
 - Análise de Sentimentos
