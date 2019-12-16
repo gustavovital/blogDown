@@ -15,34 +15,31 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+interests: 
+- R
+- Análise de Sentimentos
+- Economics
+name: Gustavo Vital
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Universidade Federal Fluminense
+  url: "http://www.uff.br/"
+# role: Professor of Artificial Intelligence
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/gustavoovital
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/gustavovital
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gustavo Vital é formado em Ciências Econômicas pela Universidade Federal Fluminense. Seu campo de interesse engloba de forma geral métodos quantitativos e Análise de Sentimentos aplicado às Ciências Econômicas e Ciências Políticas. Foi integrante do Programa de Educação Tutorial, coordenador do grupo e responsável pelas áreas de Produto Interno Bruto, Setor Externo e Mercado de Crédito.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tem conhecimento em R, Python e como hobbie, Linux. Código livre e Open Source são suas ideologias.
